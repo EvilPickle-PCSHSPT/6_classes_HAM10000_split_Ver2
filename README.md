@@ -1,3 +1,3 @@
 # 6_classes_HAM10000_split_Ver2
  
-PCA Augmentation
+Shades of Gray + PCA Augmentation
